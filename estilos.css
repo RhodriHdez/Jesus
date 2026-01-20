@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+    background-color: #7C6051;
+    width: auto;
+    height: auto;
+    min-width: 0px;
+    min-height: 0px;
+}
+h1 {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+table {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #361C1D;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: small;
+}
